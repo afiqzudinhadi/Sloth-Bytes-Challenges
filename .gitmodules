@@ -1,3 +1,15 @@
 [submodule "advanced-list-sort"]
 	path = advanced-list-sort
 	url = https://afiqzudinhadi@github.com/afiqzudinhadi/advanced-list-sort.git
+[submodule "count-smiley-faces"]
+	path = count-smiley-faces
+	url = https://github.com/afiqzudinhadi/count-smiley-faces.git
+[submodule "sort-by-letters"]
+	path = sort-by-letters
+	url = https://github.com/afiqzudinhadi/sort-by-letters.git
+[submodule "first-occurrence"]
+	path = first-occurrence
+	url = https://github.com/afiqzudinhadi/first-occurrence.git
+[submodule "check-string-title-capitalize"]
+	path = check-string-title-capitalize
+	url = https://github.com/afiqzudinhadi/check-string-title-capitalize.git
